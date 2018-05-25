@@ -1,0 +1,34 @@
+
+
+{
+  "ALL_IN_ONE_VIDEO": [
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "1",
+      "video_type": "youtube",
+      "video_title": "Chup chup ke movie comedy scenes | Rajpal yadav chup chupke",
+      "video_url": "https://www.youtube.com/watch?v=xSYjspui1Ps",
+      "video_id": "xSYjspui1Ps",
+      "video_thumbnail_b": "",
+      "video_thumbnail_s": "",
+      "video_duration": "07:19",
+      "video_description": "<p>Chup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupke</p>\r\n",
+      "related": [
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "12",
+          "video_type": "youtube",
+          "video_title": "FAST AND FURIOUS 8",
+          "video_url": "https://www.youtube.com/watch?v=9PcmKECf82g",
+          "video_id": "9PcmKECf82g",
+          "video_thumbnail_b": "",
+          "video_thumbnail_s": "",
+          "video_duration": "7:12",
+          "video_description": "<p>Fast and Furious 8 / The Fate of the Furious Trailer 2017 | Watch the official trailer &amp; clip compilation for &quot;The Fate of the Furious&quot;, an action movie starring Dwayne Johnson, Scott Eastwood &amp; Jason Statham, arriving April 14, 2017 !</p>\r\n"
+        }
+      ]
+    }
+  ]
+}
