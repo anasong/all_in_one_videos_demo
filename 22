@@ -3,7 +3,7 @@
 {
   "ALL_IN_ONE_VIDEO": [
     {
-      "cat_id": "22",
+      "cat_id": "2",
       "category_name": "Comedy",
       "id": "1",
       "video_type": "youtube",
@@ -16,7 +16,7 @@
       "video_description": "<p>Chup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupkeChup chup ke movie comedy scenes | Rajpal yadav chup chupke</p>\r\n",
       "related": [
         {
-          "cat_id": "22",
+          "cat_id": "2",
           "category_name": "Comedy",
           "id": "12",
           "video_type": "youtube",
